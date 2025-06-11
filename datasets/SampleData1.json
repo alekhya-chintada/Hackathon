@@ -1,0 +1,221 @@
+{
+  "success": true,
+  "error": null,
+  "code": null,
+  "data": [
+    {
+      "employee": {
+        "empID": "11004400",
+        "name": "Meera Das",
+        "mailID": "meera.das@infy.com",
+        "company": "INFSYS",
+        "jobLevel": "6",
+        "skills": [
+          {
+            "isCurrent": "YES",
+            "isPrimary": "YES",
+            "experienceProjectMths": 48.0,
+            "skill": { "path": "Technology | Data Engineering | Azure Data Factory" },
+            "proficiency": "ADVANCED"
+          },
+          {
+            "isCurrent": "YES",
+            "isPrimary": "NO",
+            "experienceProjectMths": 30.0,
+            "skill": { "path": "Technology | Big Data | PySpark" },
+            "proficiency": "INTERMEDIATE"
+          }
+        ],
+        "courses": [
+          { "completedOn": "2024-11-10", "course": { "courseName": "Advanced ADF Pipelines" } },
+          { "completedOn": "2025-01-05", "course": { "courseName": "Optimizing Spark Workloads" } }
+        ],
+        "certifications": [
+          {
+            "certifiedOn": "2025-02-15",
+            "certification": { "certificationName": "DP-203 Azure Data Engineer Associate" }
+          }
+        ]
+      }
+    },
+    {
+      "employee": {
+        "empID": "11005500",
+        "name": "Rahul Menon",
+        "mailID": "rahul.menon@infy.com",
+        "company": "INFSYS",
+        "jobLevel": "5",
+        "skills": [
+          {
+            "isCurrent": "YES",
+            "isPrimary": "YES",
+            "experienceProjectMths": 42.0,
+            "skill": { "path": "Technology | Backend | Java Spring Boot" },
+            "proficiency": "EXPERT"
+          },
+          {
+            "isCurrent": "NO",
+            "isPrimary": "NO",
+            "experienceProjectMths": 12.0,
+            "skill": { "path": "Technology | Database | PostgreSQL" },
+            "proficiency": "BEGINNER"
+          }
+        ],
+        "courses": [
+          { "completedOn": "2024-10-12", "course": { "courseName": "Spring Boot Microservices" } },
+          { "completedOn": "2025-02-20", "course": { "courseName": "Secure Coding in Java" } }
+        ],
+        "certifications": [
+          {
+            "certifiedOn": "2025-01-10",
+            "certification": { "certificationName": "Oracle Certified Java Developer" }
+          }
+        ]
+      }
+    },
+    {
+      "employee": {
+        "empID": "11006600",
+        "name": "Priya Shah",
+        "mailID": "priya.shah@infy.com",
+        "company": "INFSYS",
+        "jobLevel": "7",
+        "skills": [
+          {
+            "isCurrent": "YES",
+            "isPrimary": "YES",
+            "experienceProjectMths": 60.0,
+            "skill": { "path": "Technology | DevOps | Kubernetes" },
+            "proficiency": "EXPERT"
+          },
+          {
+            "isCurrent": "YES",
+            "isPrimary": "NO",
+            "experienceProjectMths": 36.0,
+            "skill": { "path": "Technology | DevOps | Jenkins CI/CD" },
+            "proficiency": "ADVANCED"
+          }
+        ],
+        "courses": [
+          { "completedOn": "2025-01-01", "course": { "courseName": "Docker and Kubernetes Mastery" } },
+          { "completedOn": "2025-01-20", "course": { "courseName": "CI/CD with Jenkins" } }
+        ],
+        "certifications": [
+          {
+            "certifiedOn": "2025-02-02",
+            "certification": { "certificationName": "CKA - Certified Kubernetes Administrator" }
+          }
+        ]
+      }
+    },
+    {
+      "employee": {
+        "empID": "11007700",
+        "name": "Karthik Iyer",
+        "mailID": "karthik.iyer@infy.com",
+        "company": "INFSYS",
+        "jobLevel": "6",
+        "skills": [
+          {
+            "isCurrent": "YES",
+            "isPrimary": "YES",
+            "experienceProjectMths": 34.0,
+            "skill": { "path": "Technology | AI/ML | Generative AI" },
+            "proficiency": "INTERMEDIATE"
+          },
+          {
+            "isCurrent": "NO",
+            "isPrimary": "NO",
+            "experienceProjectMths": 20.0,
+            "skill": { "path": "Technology | MLOps | Model Deployment" },
+            "proficiency": "BEGINNER"
+          }
+        ],
+        "courses": [
+          { "completedOn": "2025-03-03", "course": { "courseName": "LLMs and Prompt Engineering" } },
+          { "completedOn": "2025-03-10", "course": { "courseName": "MLOps Pipeline on Azure" } }
+        ],
+        "certifications": [
+          {
+            "certifiedOn": "2025-04-01",
+            "certification": { "certificationName": "Generative AI Fundamentals" }
+          }
+        ]
+      }
+    },
+    {
+      "employee": {
+        "empID": "11008800",
+        "name": "Sana Patel",
+        "mailID": "sana.patel@infy.com",
+        "company": "INFSYS",
+        "jobLevel": "5",
+        "skills": [
+          {
+            "isCurrent": "YES",
+            "isPrimary": "YES",
+            "experienceProjectMths": 30.0,
+            "skill": { "path": "Technology | Frontend | Angular" },
+            "proficiency": "ADVANCED"
+          },
+          {
+            "isCurrent": "NO",
+            "isPrimary": "NO",
+            "experienceProjectMths": 10.0,
+            "skill": { "path": "Technology | Frontend | VueJS" },
+            "proficiency": "BEGINNER"
+          }
+        ],
+        "courses": [
+          { "completedOn": "2024-12-22", "course": { "courseName": "Angular Reactive Forms & Services" } },
+          { "completedOn": "2025-01-11", "course": { "courseName": "Vue 3 Composition API" } }
+        ],
+        "certifications": [
+          {
+            "certifiedOn": "2025-02-25",
+            "certification": { "certificationName": "Frontend Expert by Udemy" }
+          }
+        ]
+      }
+    },
+    {
+      "employee": {
+        "empID": "11009900",
+        "name": "Arjun Sen",
+        "mailID": "arjun.sen@infy.com",
+        "company": "INFSYS",
+        "jobLevel": "7",
+        "skills": [
+          {
+            "isCurrent": "YES",
+            "isPrimary": "YES",
+            "experienceProjectMths": 50.0,
+            "skill": { "path": "Foundational | Architecture | TOGAF" },
+            "proficiency": "EXPERT"
+          },
+          {
+            "isCurrent": "NO",
+            "isPrimary": "NO",
+            "experienceProjectMths": 24.0,
+            "skill": { "path": "Foundational | Agile | SAFe Program Management" },
+            "proficiency": "INTERMEDIATE"
+          }
+        ],
+        "courses": [
+          { "completedOn": "2024-11-01", "course": { "courseName": "Enterprise Architecture TOGAF 9.2" } },
+          { "completedOn": "2025-02-05", "course": { "courseName": "SAFe Agile Project Management" } }
+        ],
+        "certifications": [
+          {
+            "certifiedOn": "2025-02-20",
+            "certification": { "certificationName": "TOGAF Certified" }
+          },
+          {
+            "certifiedOn": "2025-03-10",
+            "certification": { "certificationName": "SAFe Agilist" }
+          }
+        ]
+      }
+    }
+  ]
+}
